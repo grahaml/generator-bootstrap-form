@@ -1,0 +1,14 @@
+{
+  "name": "generator-form",
+  "version": "0.0.0",
+  "description": "A Yeoman generator for making accesible forms using Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Graham Losee",
+  "license": "BSD"
+}
